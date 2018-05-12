@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35099'
     url: http://www.gutenberg.org/2009/agents/35099
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31251#The-Book-of-Pears-and-Plums--With-Chapters-on-Cherries-and-Mulberries
 gutenberg_issued: '2010-02-11'
 gutenberg_type: Text
 identifiers:
